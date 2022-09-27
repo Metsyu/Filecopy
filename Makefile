@@ -1,7 +1,6 @@
-
 GCC         = gcc
-EXE	    	= filecopy
-OBJ	    	= filecopy.o
+EXE	    = filecopy
+OBJ	    = filecopy.o
 SOURCE      = filecopy.c
 
 default: $(EXE)
